@@ -1,10 +1,3 @@
-@KFERMercer
-KFERMercer OpenWrt-CI: fix du failure
-Latest commit f0de03d on 29 May
- History
- 1 contributor
-228 lines (194 sloc)  7.71 KB
-  
 #
 # This is free software, lisence use MIT.
 # 
